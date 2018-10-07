@@ -1,0 +1,7 @@
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\obj\Debug\MethodPractice2.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\obj\Debug\MethodPractice2.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\bin\Debug\MethodPractice2.exe.config
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\bin\Debug\MethodPractice2.exe
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\bin\Debug\MethodPractice2.pdb
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\obj\Debug\MethodPractice2.exe
+C:\Users\Blake\source\repos\MethodPractice2\MethodPractice2\obj\Debug\MethodPractice2.pdb
